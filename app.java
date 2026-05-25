@@ -3,5 +3,6 @@ public class App {
       System.out.println("Git Practice");
       System.out.println("version:2");
       System.out.println("new feature branch");
+      System.out.println("2nd day upadted file");
    }
 }
